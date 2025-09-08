@@ -1,0 +1,6 @@
+{
+    "editor.unicodeHighlight.allowedCharacters": {
+        "blnd": true
+    },
+    "terminal.integrated.enableImages": true
+}
