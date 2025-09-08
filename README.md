@@ -1,4 +1,4 @@
-
+blnd
 # Modela sade ya bikarhênerekî di bernameya blnd.96 da
 class Bikarhêner:
     def __init__(self, navê_bikarhêner):
